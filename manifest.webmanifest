@@ -1,0 +1,15 @@
+{
+    "name": "TON_MEME_CASINO",
+    "short_name": "TON_MEME_CASINO",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#404040",
+    "theme_color": "#fff",
+    "description": "MEME CASINO on TON",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-light.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
